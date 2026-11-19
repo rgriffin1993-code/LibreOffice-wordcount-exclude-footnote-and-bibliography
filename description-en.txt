@@ -1,0 +1,11 @@
+A word count that leaves out footnotes, endnotes, bibliography (Works Cited), tables of contents and other indexes, and headers/footers - the way WordPerfect could.
+
+The word count field in the status bar (bottom of the window) shows this count instead of LibreOffice's own. Select text and it shows "12 of 340 words". Click the field to see the full breakdown of what was left out.
+
+Tools > Word Count without Notes & Bibliography...  shows the count, with what was left out. The window also has a Count style choice: without notes and bibliography (the default) or everything, like LibreOffice's own count. Your choice is remembered, and the status bar follows it.
+
+The text follows Tools > Options > Language Settings > Languages > Locale setting.
+Tools > Mark Selection as Bibliography (not counted)  tags the selected text, e.g. a Works Cited page. Its look does not change; a matching invisible character style is added to whatever formatting is already there.
+Tools > Remove Bibliography Mark  undoes the tag.
+
+Paragraphs in LibreOffice's own "Bibliography 1" / "Bibliography Heading" styles, and generated bibliography lists, are left out automatically.

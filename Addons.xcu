@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                    oor:name="Addons" oor:package="org.openoffice.Office">
+  <node oor:name="AddonUI">
+    <node oor:name="OfficeMenuBarMerging">
+      <node oor:name="org.notescount.m1" oor:op="replace">
+        <node oor:name="S1" oor:op="replace">
+          <prop oor:name="MergePoint"><value>.uno:ToolsMenu\.uno:WordCountDialog</value></prop>
+          <prop oor:name="MergeCommand"><value>AddAfter</value></prop>
+          <prop oor:name="MergeFallback"><value>AddPath</value></prop>
+          <prop oor:name="MergeContext"><value>com.sun.star.text.TextDocument</value></prop>
+          <node oor:name="MenuItems">
+            <node oor:name="M1" oor:op="replace">
+              <prop oor:name="URL"><value>org.notescount.cmd:Count</value></prop>
+              <prop oor:name="Title"><value xml:lang="en-US">Word Count without Notes &amp; Bibliography...</value><value xml:lang="ar">عدّ الكلمات من دون الحواشي والمراجع...</value><value xml:lang="bg">Броене на думи без бележки и библиография...</value><value xml:lang="ca">Recompte de paraules sense notes ni bibliografia...</value><value xml:lang="cs">Počet slov bez poznámek a bibliografie...</value><value xml:lang="da">Ordtælling uden noter og litteraturliste...</value><value xml:lang="de">Wörter zählen ohne Notizen und Literaturverzeichnis...</value><value xml:lang="el">Μέτρηση λέξεων χωρίς σημειώσεις και βιβλιογραφία...</value><value xml:lang="es">Recuento de palabras sin notas ni bibliografía...</value><value xml:lang="et">Sõnade loendus ilma joonealuste märkuste ja kirjanduseta...</value><value xml:lang="fi">Sanamäärä ilman alaviitteitä ja lähdeluetteloa...</value><value xml:lang="fr">Nombre de mots sans notes ni bibliographie...</value><value xml:lang="gl">Contaxe de palabras sen notas nin bibliografía...</value><value xml:lang="he">ספירת מילים ללא הערות שוליים וביבליוגרפיה...</value><value xml:lang="hi">टिप्पणियों और संदर्भ-सूची के बिना शब्द गणना...</value><value xml:lang="hr">Brojanje riječi bez bilješki i bibliografije...</value><value xml:lang="hu">Szószámlálás jegyzetek és irodalomjegyzék nélkül...</value><value xml:lang="id">Hitung kata tanpa catatan dan bibliografi...</value><value xml:lang="is">Orðafjöldi án neðanmálsgreina og heimildaskrár...</value><value xml:lang="it">Conteggio parole senza note e bibliografia...</value><value xml:lang="ja">脚注・参考文献を除く文字数カウント...</value><value xml:lang="ko">각주·참고문헌을 제외한 글자 수...</value><value xml:lang="lt">Žodžių skaičius be išnašų ir bibliografijos...</value><value xml:lang="lv">Vārdu skaitīšana bez piezīmēm un bibliogrāfijas...</value><value xml:lang="nb">Ordtelling uten noter og litteraturliste...</value><value xml:lang="nl">Woorden tellen zonder noten en literatuurlijst...</value><value xml:lang="nn">Ordtelling uten noter og litteraturliste...</value><value xml:lang="pl">Liczba słów bez przypisów i bibliografii...</value><value xml:lang="pt">Contagem de palavras sem notas e bibliografia...</value><value xml:lang="ro">Numărare cuvinte fără note și bibliografie...</value><value xml:lang="ru">Подсчёт слов без сносок и библиографии...</value><value xml:lang="sk">Počet slov bez poznámok a bibliografie...</value><value xml:lang="sl">Štetje besed brez opomb in bibliografije...</value><value xml:lang="sv">Ordräkning utan noter och litteraturlista...</value><value xml:lang="th">นับคำโดยไม่รวมเชิงอรรถและบรรณานุกรม...</value><value xml:lang="tr">Notlar ve kaynakça olmadan sözcük sayısı...</value><value xml:lang="uk">Підрахунок слів без приміток і бібліографії...</value><value xml:lang="vi">Đếm từ không gồm chú thích và thư mục...</value><value xml:lang="zh-CN">字数统计（不含注释和参考文献）...</value><value xml:lang="zh-TW">字數統計（不含註解與參考書目）...</value></prop>
+              <prop oor:name="Target"><value>_self</value></prop>
+              <prop oor:name="Context"><value>com.sun.star.text.TextDocument</value></prop>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node oor:name="org.notescount.m2" oor:op="replace">
+        <node oor:name="S1" oor:op="replace">
+          <prop oor:name="MergePoint"><value>.uno:ToolsMenu\org.notescount.cmd:Count</value></prop>
+          <prop oor:name="MergeCommand"><value>AddAfter</value></prop>
+          <prop oor:name="MergeFallback"><value>AddPath</value></prop>
+          <prop oor:name="MergeContext"><value>com.sun.star.text.TextDocument</value></prop>
+          <node oor:name="MenuItems">
+            <node oor:name="M1" oor:op="replace">
+              <prop oor:name="URL"><value>org.notescount.cmd:Mark</value></prop>
+              <prop oor:name="Title"><value xml:lang="en-US">Mark Selection as Bibliography (not counted)</value><value xml:lang="ar">وسم التحديد كمراجع (لا يُعدّ)</value><value xml:lang="bg">Маркирай избраното като библиография (не се брои)</value><value xml:lang="ca">Marca la selecció com a bibliografia (no es compta)</value><value xml:lang="cs">Označit výběr jako bibliografii (nepočítá se)</value><value xml:lang="da">Markér markeringen som litteraturliste (tælles ikke)</value><value xml:lang="de">Auswahl als Literaturverzeichnis markieren (nicht gezählt)</value><value xml:lang="el">Επισήμανση επιλογής ως βιβλιογραφία (δεν μετριέται)</value><value xml:lang="es">Marcar la selección como bibliografía (no se cuenta)</value><value xml:lang="et">Märgi valik kirjanduseks (ei loeta)</value><value xml:lang="fi">Merkitse valinta lähdeluetteloksi (ei lasketa)</value><value xml:lang="fr">Marquer la sélection comme bibliographie (non comptée)</value><value xml:lang="gl">Marcar a selección como bibliografía (non se conta)</value><value xml:lang="he">סמן את הבחירה כביבליוגרפיה (לא נספרת)</value><value xml:lang="hi">चयन को संदर्भ-सूची के रूप में चिह्नित करें (गिना नहीं जाएगा)</value><value xml:lang="hr">Označi odabir kao bibliografiju (ne broji se)</value><value xml:lang="hu">Kijelölés megjelölése irodalomjegyzékként (nem számít)</value><value xml:lang="id">Tandai pilihan sebagai bibliografi (tidak dihitung)</value><value xml:lang="is">Merkja valið sem heimildaskrá (ekki talið)</value><value xml:lang="it">Segna la selezione come bibliografia (non conteggiata)</value><value xml:lang="ja">選択範囲を参考文献としてマーク（カウントしない）</value><value xml:lang="ko">선택 영역을 참고문헌으로 표시(세지 않음)</value><value xml:lang="lt">Pažymėti pasirinkimą kaip bibliografiją (neskaičiuojama)</value><value xml:lang="lv">Atzīmēt atlasi kā bibliogrāfiju (netiek skaitīta)</value><value xml:lang="nb">Merk utvalget som litteraturliste (telles ikke)</value><value xml:lang="nl">Selectie markeren als literatuurlijst (niet geteld)</value><value xml:lang="nn">Merk utvalget som litteraturliste (telles ikke)</value><value xml:lang="pl">Oznacz zaznaczenie jako bibliografię (nie liczy się)</value><value xml:lang="pt">Marcar a seleção como bibliografia (não contada)</value><value xml:lang="ro">Marchează selecția ca bibliografie (nu se numără)</value><value xml:lang="ru">Пометить выделенное как библиографию (не учитывается)</value><value xml:lang="sk">Označiť výber ako bibliografiu (nepočíta sa)</value><value xml:lang="sl">Označi izbor kot bibliografijo (se ne šteje)</value><value xml:lang="sv">Markera urvalet som litteraturlista (räknas inte)</value><value xml:lang="th">ทำเครื่องหมายส่วนที่เลือกเป็นบรรณานุกรม (ไม่นับ)</value><value xml:lang="tr">Seçimi kaynakça olarak işaretle (sayılmaz)</value><value xml:lang="uk">Позначити виділене як бібліографію (не враховується)</value><value xml:lang="vi">Đánh dấu vùng chọn là thư mục (không đếm)</value><value xml:lang="zh-CN">将所选内容标记为参考文献（不计入）</value><value xml:lang="zh-TW">將選取內容標記為參考書目（不計入）</value></prop>
+              <prop oor:name="Target"><value>_self</value></prop>
+              <prop oor:name="Context"><value>com.sun.star.text.TextDocument</value></prop>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node oor:name="org.notescount.m3" oor:op="replace">
+        <node oor:name="S1" oor:op="replace">
+          <prop oor:name="MergePoint"><value>.uno:ToolsMenu\org.notescount.cmd:Mark</value></prop>
+          <prop oor:name="MergeCommand"><value>AddAfter</value></prop>
+          <prop oor:name="MergeFallback"><value>AddPath</value></prop>
+          <prop oor:name="MergeContext"><value>com.sun.star.text.TextDocument</value></prop>
+          <node oor:name="MenuItems">
+            <node oor:name="M1" oor:op="replace">
+              <prop oor:name="URL"><value>org.notescount.cmd:Unmark</value></prop>
+              <prop oor:name="Title"><value xml:lang="en-US">Remove Bibliography Mark</value><value xml:lang="ar">إزالة وسم المراجع</value><value xml:lang="bg">Премахни маркировката на библиография</value><value xml:lang="ca">Treu la marca de bibliografia</value><value xml:lang="cs">Odebrat označení bibliografie</value><value xml:lang="da">Fjern litteraturlistemarkering</value><value xml:lang="de">Literaturverzeichnis-Markierung entfernen</value><value xml:lang="el">Αφαίρεση επισήμανσης βιβλιογραφίας</value><value xml:lang="es">Quitar la marca de bibliografía</value><value xml:lang="et">Eemalda kirjanduse märge</value><value xml:lang="fi">Poista lähdeluettelomerkintä</value><value xml:lang="fr">Retirer la marque de bibliographie</value><value xml:lang="gl">Quitar a marca de bibliografía</value><value xml:lang="he">הסר סימון ביבליוגרפיה</value><value xml:lang="hi">संदर्भ-सूची का चिह्न हटाएँ</value><value xml:lang="hr">Ukloni oznaku bibliografije</value><value xml:lang="hu">Irodalomjegyzék-jelölés eltávolítása</value><value xml:lang="id">Hapus tanda bibliografi</value><value xml:lang="is">Fjarlægja merkingu heimildaskrár</value><value xml:lang="it">Rimuovi il segno di bibliografia</value><value xml:lang="ja">参考文献マークを削除</value><value xml:lang="ko">참고문헌 표시 제거</value><value xml:lang="lt">Pašalinti bibliografijos žymą</value><value xml:lang="lv">Noņemt bibliogrāfijas atzīmi</value><value xml:lang="nb">Fjern litteraturlistemerking</value><value xml:lang="nl">Markering literatuurlijst verwijderen</value><value xml:lang="nn">Fjern litteraturlistemerking</value><value xml:lang="pl">Usuń oznaczenie bibliografii</value><value xml:lang="pt">Remover a marca de bibliografia</value><value xml:lang="ro">Elimină marcajul de bibliografie</value><value xml:lang="ru">Снять пометку библиографии</value><value xml:lang="sk">Odstrániť označenie bibliografie</value><value xml:lang="sl">Odstrani oznako bibliografije</value><value xml:lang="sv">Ta bort litteraturlistemarkering</value><value xml:lang="th">ลบเครื่องหมายบรรณานุกรม</value><value xml:lang="tr">Kaynakça işaretini kaldır</value><value xml:lang="uk">Зняти позначку бібліографії</value><value xml:lang="vi">Gỡ dấu thư mục</value><value xml:lang="zh-CN">移除参考文献标记</value><value xml:lang="zh-TW">移除參考書目標記</value></prop>
+              <prop oor:name="Target"><value>_self</value></prop>
+              <prop oor:name="Context"><value>com.sun.star.text.TextDocument</value></prop>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</oor:component-data>

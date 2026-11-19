@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+             xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier value="org.notescount.wordcount"/>
+  <version value="0.3.1"/>
+  <display-name>
+    <name lang="en">Word Count without Notes and Bibliography</name>
+    <name lang="ar">عدّ الكلمات من دون الحواشي والمراجع</name>
+    <name lang="bg">Броене на думи без бележки и библиография</name>
+    <name lang="ca">Recompte de paraules sense notes ni bibliografia</name>
+    <name lang="cs">Počet slov bez poznámek a bibliografie</name>
+    <name lang="da">Ordtælling uden noter og litteraturliste</name>
+    <name lang="de">Wörter zählen ohne Notizen und Literaturverzeichnis</name>
+    <name lang="el">Μέτρηση λέξεων χωρίς σημειώσεις και βιβλιογραφία</name>
+    <name lang="es">Recuento de palabras sin notas ni bibliografía</name>
+    <name lang="et">Sõnade loendus ilma joonealuste märkuste ja kirjanduseta</name>
+    <name lang="fi">Sanamäärä ilman alaviitteitä ja lähdeluetteloa</name>
+    <name lang="fr">Nombre de mots sans notes ni bibliographie</name>
+    <name lang="gl">Contaxe de palabras sen notas nin bibliografía</name>
+    <name lang="he">ספירת מילים ללא הערות שוליים וביבליוגרפיה</name>
+    <name lang="hi">टिप्पणियों और संदर्भ-सूची के बिना शब्द गणना</name>
+    <name lang="hr">Brojanje riječi bez bilješki i bibliografije</name>
+    <name lang="hu">Szószámlálás jegyzetek és irodalomjegyzék nélkül</name>
+    <name lang="id">Hitung kata tanpa catatan dan bibliografi</name>
+    <name lang="is">Orðafjöldi án neðanmálsgreina og heimildaskrár</name>
+    <name lang="it">Conteggio parole senza note e bibliografia</name>
+    <name lang="ja">脚注・参考文献を除く文字数カウント</name>
+    <name lang="ko">각주·참고문헌을 제외한 글자 수</name>
+    <name lang="lt">Žodžių skaičius be išnašų ir bibliografijos</name>
+    <name lang="lv">Vārdu skaitīšana bez piezīmēm un bibliogrāfijas</name>
+    <name lang="nb">Ordtelling uten noter og litteraturliste</name>
+    <name lang="nl">Woorden tellen zonder noten en literatuurlijst</name>
+    <name lang="nn">Ordtelling uten noter og litteraturliste</name>
+    <name lang="pl">Liczba słów bez przypisów i bibliografii</name>
+    <name lang="pt">Contagem de palavras sem notas e bibliografia</name>
+    <name lang="ro">Numărare cuvinte fără note și bibliografie</name>
+    <name lang="ru">Подсчёт слов без сносок и библиографии</name>
+    <name lang="sk">Počet slov bez poznámok a bibliografie</name>
+    <name lang="sl">Štetje besed brez opomb in bibliografije</name>
+    <name lang="sv">Ordräkning utan noter och litteraturlista</name>
+    <name lang="th">นับคำโดยไม่รวมเชิงอรรถและบรรณานุกรม</name>
+    <name lang="tr">Notlar ve kaynakça olmadan sözcük sayısı</name>
+    <name lang="uk">Підрахунок слів без приміток і бібліографії</name>
+    <name lang="vi">Đếm từ không gồm chú thích và thư mục</name>
+    <name lang="zh-CN">字数统计（不含注释和参考文献）</name>
+    <name lang="zh-TW">字數統計（不含註解與參考書目）</name>
+  </display-name>
+  <extension-description>
+    <src lang="en" xlink:href="description-en.txt"/>
+  </extension-description>
+</description>

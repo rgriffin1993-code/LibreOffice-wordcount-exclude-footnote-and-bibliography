@@ -1,0 +1,1146 @@
+{
+"ab": {
+"bibliography": "Абиблиографиа",
+"chars": "Асимволқәа абжьажьқәа зцу",
+"document": "Адокумент",
+"endnotes": "Анҵәамҭатә лбаагақәа",
+"footnotes": "Албаагақәа",
+"headfoot": "Ҵаҟатәии хыхьтәии аколонтитулқәа",
+"indexes": "Аиндексқәа",
+"selection": "Иалху",
+"title": "Ажәақәа рыԥхьаӡара",
+"words": "Ажәақәа"
+},
+"af": {
+"bibliography": "Bibliografie",
+"chars": "Karakters, spasies ingesluit",
+"document": "Dokument",
+"endnotes": "Eindnote",
+"footnotes": "Voetnotas",
+"headfoot": "Kopteks en Voetteks",
+"indexes": "Indekse",
+"selection": "Seleksie",
+"title": "Woordtelling",
+"words": "Woorde"
+},
+"am": {
+"bibliography": "ቢብሊዮግራፊ",
+"chars": "ባህሪዎች ክፍተቶችን ጨምሮ",
+"document": "ሰነድ",
+"footnotes": "የ ግርጌ ማስታወሻዎች",
+"indexes": "ማውጫዎች",
+"selection": "ምርጫዎች",
+"title": "ቃላት መቁጠሪያ",
+"words": "ቃላቶች"
+},
+"an": {
+"bibliography": "Bibliografía",
+"document": "Documento",
+"footnotes": "Notas a piet",
+"indexes": "Índices",
+"selection": "Selección"
+},
+"ar": {
+"bibliography": "ثبَت مراجع",
+"chars": "محارف ومن ضمنها المسافات",
+"document": "مستند",
+"endnotes": "حواشي ختامية",
+"footnotes": "حواشي",
+"indexes": "فهارس",
+"selection": "التحديد",
+"title": "عدد الكلمات",
+"words": "كلمات"
+},
+"as": {
+"chars": "খালি ঠাই অন্তৰ্ভুক্ত কৰা আখৰসমূহ",
+"document": "দস্তাবেজ",
+"indexes": "অনুক্ৰমনিকাবোৰ",
+"selection": "নিৰ্বাচন",
+"title": "শব্দ গণনা",
+"words": "শব্দবোৰ"
+},
+"ast": {
+"bibliography": "Bibliografía",
+"chars": "Caráuteres, incluyendo los espacios",
+"document": "Documentu",
+"endnotes": "Notes a lo cabero",
+"footnotes": "Notes al pie",
+"headfoot": "Testera y pie de páxina",
+"indexes": "Índices",
+"selection": "Esbilla",
+"title": "Contar pallabres",
+"words": "Pallabres"
+},
+"az": {
+"words": "Sözlər"
+},
+"be": {
+"bibliography": "Бібліяграфія",
+"chars": "Сімвалы, уключаючы прабелы",
+"document": "Дакумент",
+"endnotes": "Канцавыя Зноскі",
+"footnotes": "Зноскі",
+"headfoot": "Верхні і ніжні калантытулы",
+"indexes": "Індэксы",
+"selection": "Пазначанае",
+"title": "Колькасць слоў",
+"words": "Словы"
+},
+"bg": {
+"bibliography": "Библиография",
+"chars": "Знаци, включително интервалите",
+"document": "Документ",
+"endnotes": "Бележки в края",
+"footnotes": "Бележки под линия",
+"headfoot": "Колонтитули",
+"indexes": "Указатели",
+"selection": "Избор",
+"title": "Брой думи",
+"words": "Думи"
+},
+"bn": {
+"document": "নথি",
+"indexes": "সূচিপত্র",
+"selection": "নির্বাচন"
+},
+"bn-IN": {
+"chars": "অক্ষর স্পেস ছাড়া:",
+"document": "নথি",
+"indexes": "সূচিপত্র",
+"selection": "নির্বাচন",
+"title": "শব্দ গণনা",
+"words": "শব্দ:"
+},
+"bo": {
+"document": "ཡིག་ཚགས།",
+"indexes": "གསལ་བྱང་།",
+"words": "ཡི་གེ"
+},
+"br": {
+"bibliography": "Levrlennadur",
+"chars": "Arouezennoù gant an esaouioù",
+"document": "Teul",
+"indexes": "Ibilioù",
+"selection": "Diuzad",
+"title": "Jediñ ar gerioù",
+"words": "Gerioù"
+},
+"brx": {
+"document": "फोरमान बिलाइ",
+"indexes": "नायखां बिलाइफोर",
+"selection": "सायखनाय",
+"words": "सोदोब"
+},
+"bs": {
+"bibliography": "Bibliografija",
+"chars": "Znakovi uključujući razmake",
+"document": "Dokument",
+"indexes": "Indeksi",
+"selection": "Izbor",
+"title": "Broj riječi",
+"words": "Riječi"
+},
+"ca": {
+"bibliography": "Bibliografia",
+"chars": "Caràcters (espais inclosos)",
+"document": "Document",
+"endnotes": "Notes al final",
+"footnotes": "Notes al peu",
+"headfoot": "Capçalera i peu de pàgina",
+"indexes": "Índexs",
+"selection": "Selecció",
+"title": "Recompte de paraules",
+"words": "Paraules"
+},
+"ca-valencia": {
+"bibliography": "Bibliografia",
+"chars": "Caràcters (espais inclosos)",
+"document": "Document",
+"endnotes": "Notes al final",
+"footnotes": "Notes al peu",
+"headfoot": "Capçalera i peu de pàgina",
+"indexes": "Índexs",
+"selection": "Selecció",
+"title": "Recompte de paraules",
+"words": "Paraules"
+},
+"ckb": {
+"bibliography": "چاووگنامە",
+"chars": "نووسەکان لەگەڵ بۆشاییەکان",
+"document": "بەڵگەنامە",
+"indexes": "پێڕستەکان",
+"selection": "بۆ دیاریکردن",
+"title": "ژمارەی پیتەکان",
+"words": "پیت"
+},
+"cs": {
+"bibliography": "Seznam použité literatury",
+"chars": "Znaky včetně mezer",
+"document": "Dokument",
+"endnotes": "Vysvětlivky",
+"footnotes": "Poznámky pod čarou",
+"headfoot": "Záhlaví a zápatí",
+"indexes": "Rejstříky",
+"selection": "Výběr",
+"title": "Počet slov",
+"words": "Slova"
+},
+"cy": {
+"bibliography": "Llyfryddiaeth",
+"chars": "Nodau yn cynnwys bylchau",
+"document": "Dogfen",
+"endnotes": "Ôl-nodau",
+"footnotes": "Troednodau",
+"headfoot": "Pennyn a Throedyn",
+"indexes": "Mynegeion",
+"selection": "Dewis",
+"title": "Cyfrif Geiriau",
+"words": "Geiriau"
+},
+"da": {
+"bibliography": "Litteraturliste",
+"chars": "Tegn inklusive mellemrum",
+"document": "Dokument",
+"endnotes": "Slutnoter",
+"footnotes": "Fodnoter",
+"headfoot": "Sidehoved og sidefod",
+"indexes": "Registre",
+"selection": "Markering",
+"title": "Antal ord",
+"words": "Ord"
+},
+"de": {
+"bibliography": "Literaturverzeichnis",
+"chars": "Zeichen einschließlich Leerzeichen",
+"document": "Dokument",
+"endnotes": "Endnoten",
+"footnotes": "Fußnoten",
+"headfoot": "Kopf-/Fußzeile",
+"indexes": "Verzeichnisse",
+"selection": "Auswahl",
+"title": "Wortzählung",
+"words": "Wörter"
+},
+"dgo": {
+"bibliography": "ग्रंथ-सूची",
+"document": "दस्तावेज",
+"indexes": "इंडैक्सांIndices",
+"selection": "चोन"
+},
+"dsb": {
+"bibliography": "Zapis literatury",
+"chars": "Znamuška z proznymi znamjenjami",
+"document": "Dokument",
+"endnotes": "Kóńcne nožki",
+"footnotes": "Nožki",
+"headfoot": "Głowowa a nogowa smužka",
+"indexes": "Indekse",
+"selection": "Wuběrk",
+"title": "Licenje słowow",
+"words": "Słowa"
+},
+"dz": {
+"document": "ཡིག་ཆ།",
+"indexes": "ཟུར་ཐོ་ཚུ།",
+"selection": "སེལ་འཐུ།"
+},
+"el": {
+"bibliography": "Βιβλιογραφία",
+"chars": "Χαρακτήρες συμπεριλαμβανομένων των κενών",
+"document": "Έγγραφο",
+"endnotes": "Σημειώσεις τέλους",
+"footnotes": "Υποσημειώσεις",
+"headfoot": "Κεφαλίδα και υποσέλιδο",
+"indexes": "Ευρετήρια",
+"selection": "Επιλογή",
+"title": "Αριθμός λέξεων",
+"words": "Λέξεις"
+},
+"en-GB": {
+"bibliography": "Bibliography",
+"chars": "Characters including spaces",
+"document": "Document",
+"endnotes": "Endnotes",
+"footnotes": "Footnotes",
+"headfoot": "Header and Footer",
+"indexes": "Indexes",
+"selection": "Selection",
+"title": "Word Count",
+"words": "Words"
+},
+"en-ZA": {
+"document": "Document",
+"indexes": "Indexes",
+"selection": "Selection",
+"words": "Words"
+},
+"eo": {
+"bibliography": "Bibliografio",
+"chars": "Signoj inkludante spacetojn",
+"document": "Dokumento",
+"endnotes": "Finnotoj",
+"footnotes": "Piednotoj",
+"headfoot": "Paĝokapo kaj paĝopiedo",
+"indexes": "Indeksoj",
+"selection": "Elektaĵo",
+"title": "Nombro da vortoj",
+"words": "Vortoj"
+},
+"es": {
+"bibliography": "Bibliografía",
+"chars": "Caracteres con espacios",
+"document": "Documento",
+"endnotes": "Notas finales",
+"footnotes": "Notas al pie",
+"headfoot": "Cabecera y pie",
+"indexes": "Índices",
+"selection": "Selección",
+"title": "Contador de palabras",
+"words": "Palabras"
+},
+"et": {
+"bibliography": "Bibliograafia",
+"chars": "Märke koos tühikutega",
+"document": "Dokumendis",
+"indexes": "Registrid",
+"selection": "Valikus",
+"title": "Sõnade arv",
+"words": "Sõnu"
+},
+"eu": {
+"bibliography": "Bibliografia",
+"chars": "Karaktere-kopurua, hutsuneak barne:",
+"document": "Dokumentua",
+"endnotes": "Amaiera-oharrak",
+"footnotes": "Oin-oharrak",
+"indexes": "Indizeak",
+"selection": "Hautatu",
+"title": "Hitz kopurua",
+"words": "Hitzak"
+},
+"fa": {
+"bibliography": "کتاب‌شناسی",
+"chars": "نویسه‌ها بدون در نظر گرفتن فاصله",
+"document": "نوشتار",
+"endnotes": "پی‌نوشت‌ها",
+"footnotes": "پانویس‌ها",
+"headfoot": "سرصفحه و پاصفحه",
+"indexes": "نمایه‌ها",
+"selection": "انتخاب",
+"title": "تعداد کلمات",
+"words": "کلمات"
+},
+"fi": {
+"bibliography": "Lähdeluettelo",
+"chars": "Merkkejä, sisältäen välit",
+"document": "Asiakirjassa",
+"endnotes": "Loppuviitteet",
+"footnotes": "Alaviitteet",
+"headfoot": "Ylä- ja alatunniste",
+"indexes": "Hakemistot",
+"selection": "Valinnassa",
+"title": "Sanamäärä",
+"words": "Sanoja"
+},
+"fr": {
+"bibliography": "Bibliographie",
+"chars": "Caractères incluant les espaces",
+"document": "Document",
+"endnotes": "Notes de fin",
+"footnotes": "Notes de bas de page",
+"headfoot": "En-tête et pied de page",
+"indexes": "Index",
+"selection": "Sélection",
+"title": "Nombre de mots",
+"words": "Mots"
+},
+"fy": {
+"bibliography": "Literatuerlist",
+"chars": "Tekens ynklusyf spaasjes",
+"document": "Dokumint",
+"indexes": "Yndeksen",
+"selection": "Seleksje",
+"title": "Wurden telle",
+"words": "Wurden"
+},
+"ga": {
+"bibliography": "Leabharliosta",
+"chars": "Carachtair, spásanna san áireamh",
+"document": "Cáipéis",
+"endnotes": "Nótaí deiridh",
+"footnotes": "Nótaí Cos",
+"headfoot": "Ceanntásc agus Buntásc",
+"indexes": "Innéacsanna",
+"selection": "Roghnúchán",
+"title": "Líon na bhFocal",
+"words": "Focail"
+},
+"gd": {
+"bibliography": "Na tùsan",
+"chars": "Caractaran le àitichean bàna:",
+"document": "Sgrìobhainn",
+"indexes": "Clàir-amais",
+"selection": "Taghadh",
+"title": "Cunntas nam faclan",
+"words": "Faclan"
+},
+"gl": {
+"bibliography": "Bibliografía",
+"chars": "Caracteres, incluídos os espazos",
+"document": "Documento",
+"endnotes": "Notas ao final",
+"footnotes": "Notas a rodapé",
+"headfoot": "Cabeceira e rodapé",
+"indexes": "Índices",
+"selection": "Selección",
+"title": "Conta de palabras",
+"words": "Palabras"
+},
+"gu": {
+"bibliography": "સંદર્ભ ગ્રંથ",
+"chars": "અક્ષરો જગ્યાઓને અલગ પાડી રહ્યા છે",
+"document": "દસ્તાવેજ",
+"indexes": "અનુક્રમણિકાઓ",
+"selection": "પસંદગી",
+"title": "શબ્દ ગણતરી",
+"words": "શબ્દો"
+},
+"gug": {
+"bibliography": "Bibliografía",
+"chars": "Caracteres, pa'ũndi",
+"document": "Documento",
+"indexes": "Índices",
+"selection": "Jeporavo",
+"title": "Conteo de Palabras",
+"words": "Palabras"
+},
+"he": {
+"bibliography": "ביבליוגרפיה",
+"chars": "תווים כולל הרווחים",
+"document": "מסמך",
+"indexes": "מפתחות עניינים",
+"selection": "בחירה",
+"title": "ספירת מילים",
+"words": "מילים"
+},
+"hi": {
+"bibliography": "ग्रन्थ-सूची",
+"chars": "रिक्त जगह सहित अक्षर:",
+"document": "दस्तावेज़",
+"indexes": "सूची",
+"selection": "चुनाव",
+"title": "शब्द गणना",
+"words": "शब्द"
+},
+"hr": {
+"bibliography": "Bibliografija",
+"chars": "Broj znakova s razmacima",
+"document": "Dokument",
+"indexes": "Indeksi",
+"selection": "Odabir",
+"title": "Brojač riječi",
+"words": "Riječi"
+},
+"hsb": {
+"bibliography": "Literarny zapis",
+"chars": "Znamješka inkluziwnje mjezoty",
+"document": "Dokument",
+"endnotes": "Kónčne nóžki",
+"footnotes": "Nóžki",
+"headfoot": "Hłowowa a nohowa linka",
+"indexes": "Zapisy",
+"selection": "Wuběr",
+"title": "Ličenje słowow",
+"words": "Słowa"
+},
+"hu": {
+"bibliography": "Irodalomjegyzék",
+"chars": "Karakterek száma szóközökkel",
+"document": "Dokumentum",
+"endnotes": "Végjegyzetek",
+"footnotes": "Lábjegyzetek",
+"headfoot": "Élőfej és élőláb",
+"indexes": "Jegyzékek",
+"selection": "Kijelölés",
+"title": "Szavak száma",
+"words": "Szavak száma"
+},
+"hy": {
+"bibliography": "Մատենագիտություն",
+"chars": "Բացատներ պարունակող նիշեր",
+"document": "Փաստաթուղթ",
+"endnotes": "Էջատակեր",
+"footnotes": "Տողատակեր",
+"headfoot": "Վերնախորագիր և տողատակ",
+"indexes": "Ցուցիչներ",
+"selection": "Ընտրություն",
+"title": "Բառերի հաշվարկ",
+"words": "Բառեր"
+},
+"id": {
+"bibliography": "Bibliografi",
+"chars": "Karakter termasuk spasi",
+"document": "Dokumen",
+"endnotes": "Catatan Akhir",
+"footnotes": "Catatan Kaki",
+"headfoot": "Kepala dan Kaki",
+"indexes": "Indeks",
+"selection": "Pemilihan",
+"title": "Cacah Kata",
+"words": "Kata"
+},
+"is": {
+"bibliography": "Heimildaskrá",
+"chars": "Bókstafir með bilum",
+"document": "Skjal",
+"endnotes": "Eftirmálar",
+"footnotes": "Neðanmálsgreinar",
+"indexes": "Yfirlit",
+"selection": "Valinn texti",
+"title": "Fjöldi orða",
+"words": "Orð"
+},
+"it": {
+"bibliography": "Bibliografia",
+"chars": "Caratteri, spazi inclusi",
+"document": "Documento",
+"endnotes": "Note di chiusura",
+"footnotes": "Note a piè di pagina",
+"headfoot": "Intestazione e piè di pagina",
+"indexes": "Indici",
+"selection": "Selezione",
+"title": "Conteggio parole",
+"words": "Parole"
+},
+"ja": {
+"bibliography": "参考文献表",
+"chars": "空白を含めた文字数",
+"document": "ドキュメント",
+"endnotes": "文末脚注",
+"footnotes": "脚注",
+"headfoot": "ヘッダーとフッター",
+"indexes": "目次と索引",
+"selection": "選択",
+"title": "文字カウント",
+"words": "単語"
+},
+"jv": {
+"document": "Dokumèn",
+"words": "Tembung"
+},
+"ka": {
+"bibliography": "ბიბლიოგრაფია",
+"chars": "სიმბოლოები ჰარეების ჩათვლით",
+"document": "დოკუმენტი",
+"endnotes": "განმარტებები და შენიშვნები",
+"footnotes": "ქვედა კოლონტიტულები",
+"headfoot": "ზედა და ქვედა კოლონტიტული",
+"indexes": "ინდექსები",
+"selection": "მონიშნული",
+"title": "სიტყვებს დათვლა",
+"words": "სიტყვები"
+},
+"kab": {
+"bibliography": "Adriraw",
+"chars": "Isekkilen gar-asen tallunin",
+"document": "Isemli",
+"indexes": "Amatar",
+"selection": "Tafrant",
+"title": "Amḍan n wawalen",
+"words": "Awalen"
+},
+"kk": {
+"bibliography": "Библиография",
+"chars": "Таңбалар, бос аралықтармен қоса:",
+"document": "Құжат",
+"endnotes": "Соңдық нұсқамалар",
+"footnotes": "Нұсқамалар",
+"headfoot": "Колонтитулдар",
+"indexes": "Нұсқағыштар",
+"selection": "Таңдау",
+"title": "Сөздер саны",
+"words": "Сөздер"
+},
+"kl": {
+"document": "Allagaat"
+},
+"km": {
+"bibliography": "គន្ថនិទ្ទេស",
+"chars": "មិន​រាប់បញ្ចូល​​ចន្លោះ​តួអក្សរ​ ៖​​",
+"document": "ឯកសារ​",
+"indexes": "លិបិក្រម",
+"selection": "ជម្រើស",
+"title": "ចំនួន​ពាក្យ",
+"words": "ពាក្យ"
+},
+"kmr-Latn": {
+"bibliography": "Çavkanî",
+"document": "Belge",
+"indexes": "Pêrist",
+"selection": "Hilbijartin",
+"words": "Peyv"
+},
+"kn": {
+"chars": "ಖಾಲಿ ಸ್ಥಳಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಅಕ್ಷರಗಳು:",
+"document": "ದಸ್ತಾವೇಜು",
+"indexes": "ಸೂಚಿಪಟ್ಟಿಗಳು",
+"selection": "ಆಯ್ಕೆ",
+"title": "ಪದಗಳ ಎಣಿಕೆ",
+"words": "ಪದಗಳು"
+},
+"ko": {
+"bibliography": "참고 문헌",
+"chars": "공백을 포함한 글자수",
+"document": "문서",
+"indexes": "색인",
+"selection": "선택",
+"title": "낱말 갯수",
+"words": "낱말 갯수"
+},
+"kok": {
+"document": "दस्तावेज",
+"indexes": "वळेरी",
+"selection": "निवड",
+"words": "शब्द"
+},
+"ks": {
+"document": "دستاویز",
+"indexes": "فہرستیں",
+"words": "الفاظ"
+},
+"lb": {
+"document": "Dokument",
+"selection": "Auswiel",
+"words": "Wierder"
+},
+"lo": {
+"bibliography": "ບັນນານຸກົມ",
+"chars": "ຕົວອັກສອນລວມຍະຫວ່າງ",
+"document": "ເອກະສານ",
+"endnotes": "ໝາຍເຫດທ້າຍເລື່ອງ",
+"footnotes": "ໝາຍເຫດທ້າຍໜ້າ",
+"headfoot": "ສ່ວນຫົວ ແລະ ສ່ວນທ້າຍ",
+"indexes": "ດັດສະນີ",
+"selection": "ສ່ວນທີ່ເລືອກ",
+"title": "~ປະໂຫຍກນັບ",
+"words": "ຄຳ"
+},
+"lt": {
+"bibliography": "Bibliografija",
+"chars": "Rašmenys įskaitant tarpus:",
+"document": "Dokumentas",
+"indexes": "Rodyklės",
+"selection": "Atranka",
+"title": "Statistika",
+"words": "Žodžiai"
+},
+"lv": {
+"bibliography": "Bibliogrāfija",
+"chars": "Rakstzīmes, tai skaitā atstarpes",
+"document": "Dokuments",
+"indexes": "Rādītāji",
+"selection": "Izvēle",
+"title": "Vārdu skaits",
+"words": "Vārdi"
+},
+"mai": {
+"document": "दस्तावेज",
+"indexes": "सूची",
+"selection": "चुनाव"
+},
+"mk": {
+"document": "Документ",
+"indexes": "Индекси",
+"selection": "Избор",
+"words": "Зборови"
+},
+"ml": {
+"chars": "അക്ഷരങ്ങള്‍, സ്ഥലങ്ങളുള്‍പ്പടെ",
+"document": "രേഖ",
+"indexes": "സൂചികകള്‍",
+"selection": "തെരഞ്ഞെടുത്തവ",
+"title": "വാക്കുകളുടെ എണ്ണം",
+"words": "വാക്യങ്ങള്"
+},
+"mn": {
+"bibliography": "Ном зүй",
+"chars": "Зайнуудыг багтаасан тэмдэгтүүд",
+"document": "Баримт",
+"endnotes": "Төгсгөлийн тайлбарууд",
+"footnotes": "Зүүлт тайлбар",
+"headfoot": "Толгой ба хөл хэсэг",
+"indexes": "Индекс",
+"selection": "Сонголт"
+},
+"mni": {
+"document": "দোকুমেন্ত",
+"indexes": "ইন্দেক্সশিং",
+"words": "ৱাহৈশিং"
+},
+"mr": {
+"bibliography": "संदर्भग्रंथ",
+"chars": "स्पेसेस समाविष्टीत असणारी अक्षरे",
+"document": "दस्तऐवज",
+"indexes": "अनुक्रमणिका",
+"selection": "नीवड",
+"title": "शब्द संख्या",
+"words": "शब्द"
+},
+"my": {
+"document": "မှတ်တမ်းမှတ်ရာ",
+"indexes": "အညွှန်းများ",
+"selection": "လက်ရွေးစင်",
+"title": "~စကားလုံးရေတွက်သည်",
+"words": "စကားလုံးများ"
+},
+"nb": {
+"bibliography": "Litteraturliste",
+"chars": "Tegn inkludert mellomrom",
+"document": "Dokument",
+"endnotes": "Sluttnoter",
+"footnotes": "Fotnoter",
+"headfoot": "Topptekst og bunntekst",
+"indexes": "Registre",
+"selection": "Utvalg",
+"title": "Ordtelling",
+"words": "Ord"
+},
+"ne": {
+"document": "कागजात",
+"endnotes": "अन्तिम नोटहरू",
+"footnotes": "फुटनोटहरू",
+"indexes": "अनुक्रमणिकाहरू",
+"selection": "चयन",
+"title": "शब्द गणना गर्नुहोस्",
+"words": "शब्दहरू"
+},
+"nl": {
+"bibliography": "Literatuurlijst",
+"chars": "Lettertekens inclusief spaties",
+"document": "Document",
+"endnotes": "Eindnoten",
+"footnotes": "Voetnoten",
+"headfoot": "Koptekst en voettekst",
+"indexes": "Indexen",
+"selection": "Selectie",
+"title": "Aantal woorden",
+"words": "Woorden"
+},
+"nn": {
+"bibliography": "Litteraturliste",
+"chars": "Teikn medrekna mellomrom",
+"document": "Dokument",
+"endnotes": "Sluttnotar",
+"footnotes": "Fotnotar",
+"headfoot": "Topp- og botntekst",
+"indexes": "Register",
+"selection": "Utval",
+"title": "Ordteljing",
+"words": "Ord"
+},
+"nr": {
+"words": "Amagama"
+},
+"nso": {
+"document": "Tokumente",
+"indexes": "Dišhupane",
+"selection": "Kgetho",
+"words": "Mantšu"
+},
+"oc": {
+"bibliography": "Bibliografia",
+"chars": "Caractèrs inclusent los espacis",
+"document": "Document",
+"headfoot": "Entèsta e pè de pagina",
+"indexes": "Indèxes",
+"selection": "Seleccion",
+"title": "Nombre de mots",
+"words": "Mots"
+},
+"om": {
+"document": "Galmee",
+"indexes": "Kasaawwan",
+"selection": "Filannoo",
+"words": "Jechoota"
+},
+"or": {
+"bibliography": "ଗ୍ରନ୍ଥସୂଚୀ",
+"chars": "ଖାଲିସ୍ଥାନଗୁଡ଼ିକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରିଥିବା ଅକ୍ଷରଗୁଡିକ",
+"document": "ଦଲିଲ",
+"indexes": "ସୂଚୀଗୁଡିକ",
+"selection": "ଚୟନ",
+"title": "ଶବ୍ଦ ସଂଖ୍ୟା",
+"words": "ଶବ୍ଦଗୁଡିକ"
+},
+"pa-IN": {
+"bibliography": "ਪੁਸਤਕ ਲਿਸਟ",
+"chars": "ਖਾਲੀ ਥਾਂ ਨੂੰ ਛੱਡ ਕੇ ਅੱਖਰ:",
+"document": "ਡੌਕੂਮੈਂਟ",
+"endnotes": "ਅੰਤ-ਨੋਟ",
+"footnotes": "ਫੁੱਟਨੋਟ",
+"headfoot": "ਹੈੱਡਰ ਤੇ ਫੁੱਟਰ",
+"indexes": "ਇੰਡੈਕਸ",
+"selection": "ਚੋਣ",
+"title": "ਸ਼ਬਦ ਗਿਣਤੀ",
+"words": "ਸ਼ਬਦ"
+},
+"pl": {
+"bibliography": "Bibliografia",
+"chars": "Znaki (wliczając spacje)",
+"document": "Dokument",
+"endnotes": "Przypisy końcowe",
+"footnotes": "Przypisy dolne",
+"headfoot": "Główka i stopka",
+"indexes": "Indeksy",
+"selection": "Zaznaczenie",
+"title": "Licznik słów",
+"words": "Słowa"
+},
+"pt": {
+"bibliography": "Bibliografia",
+"chars": "Caracteres incluindo espaços:",
+"document": "Documento",
+"endnotes": "Notas finais",
+"footnotes": "Notas de rodapé",
+"indexes": "Índices",
+"selection": "Seleção",
+"title": "Contagem de palavras",
+"words": "Palavras"
+},
+"pt-BR": {
+"bibliography": "Bibliografia",
+"chars": "Caracteres incluindo os espaços",
+"document": "Documento",
+"endnotes": "Notas de fim",
+"footnotes": "Notas de rodapé",
+"headfoot": "Cabeçalho e rodapé",
+"indexes": "Índices",
+"selection": "Seleção",
+"title": "Contar palavras",
+"words": "Palavras"
+},
+"ro": {
+"bibliography": "Bibliografie",
+"chars": "Caractere, incluzând spațiile",
+"document": "Document",
+"endnotes": "Note finale",
+"footnotes": "Note de subsol",
+"headfoot": "Antet și subsol",
+"indexes": "Indexuri",
+"selection": "Selecție",
+"title": "Contor de cuvinte",
+"words": "Cuvinte"
+},
+"ru": {
+"bibliography": "Библиография",
+"chars": "Символов с пробелами",
+"document": "Документ",
+"endnotes": "Концевые сноски",
+"footnotes": "Сноски",
+"headfoot": "Колонтитулы",
+"indexes": "Указатели",
+"selection": "Выбранное",
+"title": "Подсчёт слов",
+"words": "Слова"
+},
+"rw": {
+"document": "Inyandiko",
+"indexes": "Imibarendanga",
+"selection": "Ihitamo",
+"words": "Amagambo"
+},
+"sa-IN": {
+"bibliography": "ग्रन्थसूची",
+"document": "लेख्यपत्रम्",
+"indexes": "अनुक्रमणी",
+"selection": "वरणम्",
+"title": "शब्दगणना",
+"words": "शब्दाः"
+},
+"sat": {
+"bibliography": "पुथी को रेयाक् लिसटी (~h)",
+"document": "दोलिलदोलिल",
+"indexes": "ञुतुम ओनोलञुतुम  लिसटी",
+"title": "साबाद लेखा",
+"words": "शब्दसाबाद"
+},
+"sat-Olck": {
+"bibliography": "ᱯᱩᱛᱷᱤ ᱠᱚ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ (~h)",
+"chars": "ᱥᱯᱮᱥ ᱥᱟᱶᱛᱮ ᱪᱟᱹᱨᱤᱛ ᱠᱚ",
+"document": "ᱫᱚᱞᱤᱞᱫᱚᱞᱤᱞ",
+"endnotes": "ᱢᱩᱪᱟᱹᱫ ᱱᱚᱴᱥ",
+"footnotes": "ᱯᱷᱩᱴᱱᱚᱴᱥ",
+"headfoot": "ᱦᱮᱰᱟᱨ ᱟᱨ ᱯᱷᱩᱴᱟᱨ",
+"indexes": "ᱧᱩᱛᱩᱢ ᱚᱱᱚᱞᱧᱩᱛᱩᱢ  ᱞᱤᱥᱴᱤ",
+"selection": "ᱵᱟᱪᱷᱟᱣ",
+"title": "ᱥᱟᱵᱟᱫ ᱞᱮᱠᱷᱟ",
+"words": "ᱥᱵᱫᱥᱟᱵᱟᱫ"
+},
+"sd": {
+"bibliography": "ڪتابن جي ياداشت",
+"document": "دستاويز",
+"indexes": "فهرستون",
+"title": "لفظن جي ڳڻپ"
+},
+"si": {
+"document": "ලේඛය",
+"indexes": "සුචි",
+"selection": "තේරීම",
+"title": "වදන් ගණන (~W)",
+"words": "පද:"
+},
+"sid": {
+"chars": "Fikiima foonqete ledo",
+"document": "Bortaje",
+"indexes": "Taji-mashalaqqisaano",
+"selection": "Doorsha",
+"title": "Qaalu Kiira",
+"words": "Qaalla"
+},
+"sk": {
+"bibliography": "Zoznam použitej literatúry",
+"chars": "Znaky vrátane medzier",
+"document": "Dokument",
+"endnotes": "Koncové poznámky",
+"footnotes": "Poznámky pod čiarou",
+"headfoot": "Hlavička a päta",
+"indexes": "Registre",
+"selection": "Výber",
+"title": "Počet slov",
+"words": "Slová"
+},
+"sl": {
+"bibliography": "Bibliografija",
+"chars": "Znaki s presledki",
+"document": "Dokument",
+"endnotes": "Končne opombe",
+"footnotes": "Sprotne opombe",
+"headfoot": "Glava in noga",
+"indexes": "Kazala",
+"selection": "Izbor",
+"title": "Štetje besed",
+"words": "Besede"
+},
+"sq": {
+"bibliography": "Bibliografia",
+"chars": "Shkronja, përfshirë hapësirat",
+"document": "Dokument",
+"indexes": "Indekset",
+"selection": "Përzgjedhje",
+"title": "Numërimi i fjalëve",
+"words": "Fjalët"
+},
+"sr": {
+"bibliography": "Библиографија",
+"chars": "Знакова са размацима",
+"document": "Документ",
+"endnotes": "Ендноте",
+"footnotes": "Фусноте",
+"headfoot": "Заглавље и подножје",
+"indexes": "Пописи",
+"selection": "Избор",
+"title": "Бројање речи",
+"words": "Речи"
+},
+"sr-Latn": {
+"chars": "Znakova sa razmacima",
+"document": "Dokument",
+"indexes": "Popisi",
+"title": "Broj reči",
+"words": "Reči"
+},
+"ss": {
+"document": "Idokhumenti",
+"words": "Emagama"
+},
+"st": {
+"document": "Tokomane",
+"words": "Mantswe"
+},
+"sun": {
+"selection": "Pamilihan"
+},
+"sv": {
+"bibliography": "Bibliografi",
+"chars": "Tecken inklusive mellanrum",
+"document": "Dokument",
+"endnotes": "Slutnoter",
+"footnotes": "Fotnoter",
+"headfoot": "Sidhuvud och sidfot",
+"indexes": "Förteckningar",
+"selection": "Urval",
+"title": "Antal ord",
+"words": "Ord"
+},
+"sw-TZ": {
+"document": "Andiko",
+"indexes": "Vielezo",
+"selection": "Uteuzi",
+"words": "Words"
+},
+"szl": {
+"bibliography": "Bibliografijo",
+"chars": "Znaki ze spacyjami",
+"document": "Dokumynt",
+"endnotes": "Przipisy kōńcowe",
+"footnotes": "Przipisy spodnie",
+"indexes": "Indeksy",
+"selection": "Zaznaczanie",
+"title": "Licznik słōw",
+"words": "Słowa"
+},
+"ta": {
+"bibliography": "நூல் விவரக்குறிப்பு",
+"chars": "வெளியை உட்படுத்திய வரியுருக்கள்",
+"document": "ஆவணம்",
+"indexes": "அகவரிசைகள்",
+"selection": "தேரிவு",
+"title": "சொல் எண்ணிக்கை",
+"words": "சொற்கள்"
+},
+"te": {
+"chars": "తర్వాతపు పేజీ మొదలు",
+"document": "పత్రం",
+"indexes": "విషయసూచికలు",
+"selection": "ఎంపిక",
+"title": "పద గణన",
+"words": "పదములు"
+},
+"tg": {
+"document": "Ҳуҷҷат",
+"indexes": "Индексҳо",
+"selection": "Интихоб",
+"words": "Калимаҳо"
+},
+"th": {
+"bibliography": "บรรณานุกรม",
+"chars": "จำนวนตัวอักษรรวมช่องว่าง",
+"document": "เอกสาร",
+"endnotes": "เชิงอรรถท้ายเรื่อง",
+"footnotes": "เชิงอรรถท้ายหน้า",
+"headfoot": "หัวกระดาษและท้ายกระดาษ",
+"indexes": "ดัชนี",
+"selection": "ส่วนที่เลือก",
+"title": "นับจำนวนคำ",
+"words": "คำ"
+},
+"tl": {
+"bibliography": "Bibliograpiya",
+"chars": "Mga character kasama ang mga puwang",
+"document": "Dokumento",
+"endnotes": "Mga Endnote",
+"footnotes": "Mga talababa",
+"headfoot": "Header at Footer",
+"indexes": "Mga index",
+"selection": "Pagpili",
+"title": "Bilang ng Salita",
+"words": "Mga salita"
+},
+"tn": {
+"document": "Setlankana",
+"selection": "Kgetho",
+"words": "Mafoko"
+},
+"tr": {
+"bibliography": "Kaynakça",
+"chars": "Boşluklu karakterler",
+"document": "Belge",
+"endnotes": "Sonnot",
+"footnotes": "Dipnot",
+"headfoot": "Üst Bilgi ve Alt Bilgi",
+"indexes": "Dizinler",
+"selection": "Seçim",
+"title": "Kelime Sayısı",
+"words": "Kelimeler"
+},
+"ts": {
+"words": "Marito"
+},
+"tt": {
+"document": "Документ",
+"indexes": "Индекслар",
+"selection": "Сайлау",
+"words": "Сүзләр"
+},
+"ug": {
+"chars": "بوشلۇقنى ئۆز ئىچىگە ئالغان ھەرپ سانى",
+"document": "پۈتۈك",
+"indexes": "بەلگىلەر",
+"selection": "تاللاش",
+"title": "سۆز ساناق",
+"words": "سۆزلەر"
+},
+"uk": {
+"bibliography": "Бібліографія",
+"chars": "Знаків з пробілами",
+"document": "Документ",
+"endnotes": "Кінцеві виноски",
+"footnotes": "Виноски",
+"headfoot": "Верхній і нижній колонтитули",
+"indexes": "Покажчики",
+"selection": "Вибране",
+"title": "Кількість слів",
+"words": "Слова"
+},
+"ur": {
+"selection": "~انتخاب",
+"words": "الفاظ"
+},
+"uz": {
+"document": "Hujjat",
+"selection": "Tanlash"
+},
+"ve": {
+"words": "Maipfi"
+},
+"vec": {
+"bibliography": "Bibliografìa",
+"chars": "Caràtari, spasi includesti",
+"document": "Documento",
+"indexes": "Ìndezi",
+"selection": "Sełesion",
+"title": "Contejo parołe",
+"words": "Parołe"
+},
+"vi": {
+"chars": "Ký tự chứa dấu trắng:",
+"document": "Tài liệu",
+"indexes": "Chỉ mục",
+"selection": "Lựa chọn",
+"title": "Đế~m từ",
+"words": "Từ"
+},
+"xh": {
+"document": "Uxwebhu",
+"words": "Amagama"
+},
+"zh-CN": {
+"bibliography": "参考文献",
+"chars": "包含空格的字符数",
+"document": "文档",
+"endnotes": "尾注",
+"footnotes": "脚注",
+"headfoot": "页眉与页脚",
+"indexes": "索引",
+"selection": "当前选择",
+"title": "字词统计",
+"words": "字词"
+},
+"zh-TW": {
+"bibliography": "參考文獻",
+"chars": "包含空格的字元數",
+"document": "文件",
+"endnotes": "尾註",
+"footnotes": "註腳",
+"headfoot": "頁首與頁尾",
+"indexes": "索引",
+"selection": "選取",
+"title": "字數",
+"words": "字數"
+},
+"zu": {
+"document": "Umbhalo",
+"selection": "Ukhetho",
+"words": "Amagama"
+}
+}

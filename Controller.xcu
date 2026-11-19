@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                    oor:name="Controller" oor:package="org.openoffice.Office.UI">
+  <!-- Module left empty: matches every module that has this status bar field (Writer, Writer/Web, Master Document, XForms). -->
+  <node oor:name="Registered">
+    <node oor:name="StatusBar">
+      <node oor:name="org.notescount.StatusWordCount" oor:op="replace">
+        <prop oor:name="Command"><value>.uno:StateWordCount</value></prop>
+        <prop oor:name="Module"><value/></prop>
+        <prop oor:name="Controller"><value>org.notescount.StatusbarController</value></prop>
+      </node>
+    </node>
+  </node>
+</oor:component-data>
